@@ -1,1 +1,1 @@
-# Correção de códio de boas práticas de programação
+# Correção de código de boas práticas de programação
