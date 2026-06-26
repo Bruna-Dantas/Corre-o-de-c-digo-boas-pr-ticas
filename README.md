@@ -1,1 +1,1 @@
-# Corre-o-de-c-digo-boas-pr-ticas
+# Correção de códio de boas práticas de programação
